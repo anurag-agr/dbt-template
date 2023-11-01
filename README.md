@@ -1,4 +1,4 @@
-test no. one
+hello one
 Welcome to your new dbt project!
 
 ### Using the starter project
